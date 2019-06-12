@@ -11,9 +11,6 @@ public class MyTest {
         System.out.println("aaaaaaaaaaa");
         System.out.println("aaaaaaaaaaa");
         System.out.println("aaaaaaaaaaa");
-        System.out.println("aaaaaaaaaaa");
-        System.out.println("aaaaaaaaaaa");
-        System.out.println("aaaaaaaaaaa");
-        System.out.println("aaaaaaaaaaa");
+       
     }
 }
